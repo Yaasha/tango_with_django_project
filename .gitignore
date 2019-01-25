@@ -1,0 +1,4 @@
+db.sqlite3
+rango/__pycache__/
+*.pyc
+rango/migrations/
