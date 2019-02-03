@@ -2,3 +2,5 @@ db.sqlite3
 rango/__pycache__/
 *.pyc
 rango/migrations/
+tango_with_django_project/__pycache__/
+media/profile_images/
